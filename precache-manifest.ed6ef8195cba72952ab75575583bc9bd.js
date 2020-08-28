@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9accaaf57f5685973c8a8082f34dccdb",
+    "revision": "7472497b04a9489bd6f9995c3444357a",
     "url": "/robolist/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robolist/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "677c50e6872f4767a151",
+    "revision": "358b8ab0b199049114da",
     "url": "/robolist/static/css/main.b8f1e001.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robolist/static/js/2.efec3637.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "677c50e6872f4767a151",
-    "url": "/robolist/static/js/main.3ce21619.chunk.js"
+    "revision": "358b8ab0b199049114da",
+    "url": "/robolist/static/js/main.df794d00.chunk.js"
   },
   {
     "revision": "25cdf5d5035045c06208",
